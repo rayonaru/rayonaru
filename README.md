@@ -1,5 +1,5 @@
 <p align="center">
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="animated" />
 </p>
 <!--
 **rayonaru/rayonaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
